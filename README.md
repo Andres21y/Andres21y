@@ -1,6 +1,6 @@
 
 <div id="header" style="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" align="center" width="200"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" style="center" width="200"/>
 </div>
 
 <div id="badges">
@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Andres21y&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Andres21y&style=flat-square&color=blue" alt="username"/>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -27,7 +27,6 @@ I am a full stack development student <img src="https://media.giphy.com/media/WU
 - :zap: In my free time, I practice and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-cordoba-8714b5238/)
-
 
 
 ---

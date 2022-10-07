@@ -1,4 +1,4 @@
-<div class="contenido" oncontextmenu="return false" onmousedown="return false"  ondragstart="return false">
+<div>
 
 <div id="header" align="center" color="black">
                <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" text-align="center" width="200"  />

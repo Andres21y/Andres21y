@@ -1,10 +1,10 @@
 
 <div id="header" aling="center">
-  <img src="https://media.giphy.com/media/21LBBnHrYLvv5eYRX5/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="400"/>
 </div>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/mynetwork/">
+  <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>

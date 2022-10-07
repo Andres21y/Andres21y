@@ -1,5 +1,4 @@
 <div >
-<img src="/image/background.png" height="50" width="800"/>
 
 <div id="header" align="center" color="black">
                <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" text-align="center" width="200"  />
@@ -11,6 +10,7 @@
   </a>  
   <img src="https://komarev.com/ghpvc/?username=Andres21y&style=flat-square&color=blue" alt="username"/>
 </div>
+<img src="/image/background.png" height="50" width="100%"/>
 <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>

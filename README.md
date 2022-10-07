@@ -1,6 +1,6 @@
-\begin{center}
-\includegraphics{ <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" text-align="center" width="200"  />}
-\end{center}
+begin{center}
+includegraphics{ <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" text-align="center" width="200"  />}
+end{center}
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/andres-cordoba-8714b5238/">

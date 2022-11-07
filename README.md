@@ -12,7 +12,7 @@
 </div>
 <img src="/image/background.png" height="50" width="100%">
 <h1>
-  hey there!
+  hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </img>
@@ -26,8 +26,9 @@
 I'm Andres I'm a full stack web developer, I'm 31 years old  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm from Colombia .
 - :telescope: I am currently working for It Globers as a front-end web developer.
 
+- :school: I studied at the henry programming academy
+
 - :seedling: I'm currently learning typeScript on my own
-- :school: I'm currently learning typeScript on my own
 
 - :book: I like to read code books and technology articles.
 

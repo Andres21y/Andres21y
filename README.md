@@ -27,7 +27,7 @@ I'm Andres I'm a full stack web developer, I'm 31 years old  <img src="https://m
 - :telescope: I am currently working for It Globers as a front-end web developer.
 
 - :seedling: I'm currently learning typeScript on my own
-- :study: I'm currently learning typeScript on my own
+- :school: I'm currently learning typeScript on my own
 
 - :book: I like to read code books and technology articles.
 

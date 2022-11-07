@@ -6,7 +6,7 @@
 
 <div id="badges" align="center" >
                <a href="https://www.linkedin.com/in/andres-cordoba-8714b5238/">
-               <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"/>
+               <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="20"/>
   </a>  
   <img src="https://komarev.com/ghpvc/?username=Andres21y&style=flat-square&color=blue" alt="username"/>
 </div>
@@ -24,11 +24,11 @@
 
 ### :man_technologist: About Me :
 I'm Andres I'm a full stack web developer, I'm 31 years old  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm from Colombia .
-- :telescope: I am currently working for It Globers as a front end web developer.
+- :telescope: I am currently working for It Globers as a front-end web developer.
 
-- :seedling: I'm currently learning typing on my own
+- :seedling: I'm currently learning typeScript on my own
 
-- :zap: I like to read code books and technology articles.
+- :book: I like to read code books and technology articles.
 
 - :zap:In my spare time I like chess, running and playing basketball.
 

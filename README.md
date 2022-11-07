@@ -6,7 +6,7 @@
 
 <div id="badges" align="center" >
                <a href="https://www.linkedin.com/in/andres-cordoba-8714b5238/">
-               <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="50"/>
+               <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"/>
   </a>  
   <img src="https://komarev.com/ghpvc/?username=Andres21y&style=flat-square&color=blue" alt="username"/>
 </div>
@@ -23,12 +23,14 @@
 ---
 
 ### :man_technologist: About Me :
-I am a fullStack development  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
-- :telescope: I’m working in IT GLOBERS.
+I'm Andres I'm a full stack web developer, I'm 31 years old  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I'm from Colombia .
+- :telescope: I am currently working for It Globers as a front end web developer.
 
-- :seedling: learning TypeScript 
+- :seedling: I'm currently learning typing on my own
 
-- :zap: In my free time, I practice and read tech articles.
+- :zap: I like to read code books and technology articles.
+
+- :zap:In my spare time I like chess, running and playing basketball.
 
 - :mailbox:How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-cordoba-8714b5238/)
 

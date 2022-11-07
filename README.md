@@ -22,10 +22,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a full stack development student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
-- :telescope: I’m studing a Henry.
+I am a fullStack development  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
+- :telescope: I’m working in IT GLOBERS.
 
-- :seedling:
+- :seedling: learning TypeScript 
 
 - :zap: In my free time, I practice and read tech articles.
 
@@ -45,4 +45,5 @@ I am a full stack development student <img src="https://media.giphy.com/media/WU
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgress" alt="Postgress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="Sequelize" width="40" height="40"/>&nbsp;
 </div>

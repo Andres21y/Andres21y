@@ -53,6 +53,7 @@ I'm Andres I'm a full stack web developer, I'm 31 years old  <img src="https://m
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="Sequelize" width="40" height="40"/>&nbsp;
 </div>
 
+### :top :
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres21y&show_icons=true&locale=en&laycut=compact" alt="andres21y"/>
+<img align="center" width="80" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres21y&show_icons=true&locale=en&laycut=compact" alt="andres21y"/>
 </p>

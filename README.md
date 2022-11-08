@@ -12,7 +12,7 @@
 </div>
 <img src="/image/background.png" height="50" width="100%">
 <h1>
-  hi there!
+<h1 align="center">Hi 👋, I'm Andres</h1> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </img>
@@ -23,9 +23,7 @@
 ---
 
 ### :man_technologist: About Me :
-<h1 align="center">Hi 👋, I'm Andres</h1> I'm a full stack web developer, I'm 31 years old  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I'm from Colombia .
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andres21y" alt="andres21y" /></a> </p>
+I'm a full stack web developer, I'm 31 years old  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I'm from Colombia .
 
 - :telescope: I am currently working on It Globers as a front-end web developer.
 
@@ -59,4 +57,4 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres21y&show_icons=true&locale=en&layout=compact" alt="andres21y" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres21y&show_icons=true&locale=en&layout=compact" alt="andres21y" /></p><p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andres21y" alt="andres21y" /></a> </p>

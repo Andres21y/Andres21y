@@ -24,7 +24,7 @@
 
 ### :man_technologist: About Me :
 I'm Andres I'm a full stack web developer, I'm 31 years old  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I'm from Colombia .
-- :telescope: I am currently working for It Globers as a front-end web developer.
+- :telescope: I am currently working on It Globers as a front-end web developer.
 
 - :school: I studied at the henry programming academy
 
@@ -34,7 +34,7 @@ I'm Andres I'm a full stack web developer, I'm 31 years old  <img src="https://m
 
 - :zap:In my spare time I like chess, running and playing basketball.
 
-- :mailbox:How to reach me: [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&height="20px")](https://www.linkedin.com/in/andres-cordoba-8714b5238/)
+- :mailbox:Connect with me: [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&height="20px")](https://www.linkedin.com/in/andres-cordoba-8714b5238/)
 
 
 ---
@@ -52,3 +52,7 @@ I'm Andres I'm a full stack web developer, I'm 31 years old  <img src="https://m
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="Sequelize" width="40" height="40"/>&nbsp;
 </div>
+
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres21y&show_icons=true&locale=en&laycut=compact" alt="andres21y"/>
+</p>

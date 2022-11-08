@@ -55,6 +55,6 @@ I'm a full stack web developer, I'm 31 years old  <img src="https://media.giphy.
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres21y&show_icons=true&locale=en&layout=compact" alt="andres21y" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andres21y&show_icons=true&locale=en&layout=compact" alt="andres21y" /></p>
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andres21y" alt="andres21y" /></a> </p>

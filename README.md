@@ -1,4 +1,4 @@
-<div style="background-image: url('../image/home_off.jpg'); background-size: cover;">
+<div style="background-image: url('./image/home_off.jpg'); background-size: cover;">
   
 
 

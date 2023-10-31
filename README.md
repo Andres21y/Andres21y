@@ -21,9 +21,8 @@
 ---
 
 ### :man_technologist: Sobre mi:
-Soy Andrés Córdoba Caicedo, desarrollador web Full-Stack; inclinado hacia el lado del cliente.  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> .
-Me considero una persona con pensamiento creativo, resolución de problemas, trabajo en equipo y comunicación asertiva.
-
+👋 Hi there! I'm a passionate Full Stack Web Developer 🌐💻 who thrives on turning ideas into elegant, functional, and user-friendly web applications. I'm on a never-ending quest for knowledge 📚 and love diving headfirst into new technologies. When I'm not coding, you can find me exploring the latest web development trends
+or brainstorming my next big project. Let's connect and build the web together! 🚀 #CodeLover #AlwaysLearning 💡👨‍💻
 - :telescope:Actuelmente buscando trabajo.
 
 - :school: Henry bootcamp argentina.

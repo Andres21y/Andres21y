@@ -1,4 +1,4 @@
-<div style="background-image: url('./image/home_off.jpg'); background-size: cover;">
+<div style="background:red">
   
 
 
@@ -68,4 +68,4 @@ Let's connect and build the web together! 🚀 #CodeLover #AlwaysLearning 💡�
 
 </div>
 
-<link rel="stylesheet" type="text/css" href="./css/custom.css">
+<link rel="stylesheet" type="text/css" href="../css/custom.css">

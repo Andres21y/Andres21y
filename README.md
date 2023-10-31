@@ -29,15 +29,15 @@
 👋 Hi there! I am a zealous Full Stack Developer 🌐💻 with a prominent focus on the client side. My journey into the realm of programming commenced as a pursuit of creativity through technology. Endowed with formidable skills in HTML, CSS, and JavaScript, I specialize in fashioning exceptional and highly interactive user experiences.
 My emphasis revolves around the translation of client ideas and requirements into elegant and functional digital solutions. With a discerning eye for design and an unwavering commitment to performance optimization, my aim is to provide end-users with seamless and unforgettable web experiences.
 Let's connect and build the web together! 🚀 #CodeLover #AlwaysLearning 💡👨‍💻
-- :telescope:Actuelmente buscando trabajo.
+- :Actively seeking job opportunities.
 
-- :school: Henry bootcamp argentina.
+- :school:  Proud graduate of Henry Bootcamp Argentina, where I honed my coding skills.
 
-- :seedling:Apasionado por la tecnología, el desarrollo de aplicaciones web,  así como análisis de código en busca de mejoras. 
+- :seedling:Technology enthusiast, with a deep love for web application development and a keen eye for code analysis to drive continuous improvements.
 
-- :book:En mis tiempos libres me gusta leer algún libro  si es posible en inglés, ya que esto me ayuda a mejorar mis habilidades en este idioma.
+- :book:In my spare time, you can catch me delving into a good book, preferably in English, as it's my secret weapon for honing my language skills.
 
-- 🤾‍♂️:Me encantan los deportes como baloncesto, natación y ajedrez.
+- 🤾‍♂️:Sports lover with a knack for basketball, swimming, and the timeless game of chess. Let's connect, collaborate, and bring tech and sports to life! 🚀 #TechEnthusiast #ChessWizard 
 
 - :mailbox:Connect with me: [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&height="20px")](https://www.linkedin.com/in/andres-cordoba-8714b5238/)
 
@@ -56,7 +56,8 @@ Let's connect and build the web together! 🚀 #CodeLover #AlwaysLearning 💡�
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgress" alt="Postgress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="Sass" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
+      <img src="https://github.com/devicons/devicon/blob/master/icons/next/next-original.svg" title="Typescript" alt="Next" width="40" height="40"/>&nbsp;
 </div>
 
 

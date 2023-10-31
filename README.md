@@ -17,7 +17,7 @@
 </div>
 <img src="/image/background.png" height="50" width="100%">
 
-<h1 align="center">Hola! 👋, Soy Andrés Córdoba</h1> 
+<h1 align="center">Hi! 👋, I'm Andrés Córdoba</h1> 
 </img>
 </div>
 
@@ -25,7 +25,7 @@
 
 ---
 
-### :man_technologist: Sobre mi:
+### :man_technologist: About me:
 👋 Hi there! I am a zealous Full Stack Developer 🌐💻 with a prominent focus on the client side. My journey into the realm of programming commenced as a pursuit of creativity through technology. Endowed with formidable skills in HTML, CSS, and JavaScript, I specialize in fashioning exceptional and highly interactive user experiences.
 My emphasis revolves around the translation of client ideas and requirements into elegant and functional digital solutions. With a discerning eye for design and an unwavering commitment to performance optimization, my aim is to provide end-users with seamless and unforgettable web experiences.
 Let's connect and build the web together! 🚀 #CodeLover #AlwaysLearning 💡👨‍💻
@@ -44,7 +44,7 @@ Let's connect and build the web together! 🚀 #CodeLover #AlwaysLearning 💡�
 
 ---
 
-### :hammer_and_wrench: Habilidades Técnicas:
+### :hammer_and_wrench: Technical Skills.:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -57,8 +57,8 @@ Let's connect and build the web together! 🚀 #CodeLover #AlwaysLearning 💡�
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="Sass" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="Tailwind" alt="Tailwind" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="60" height="60"/>&nbsp;
 </div>
 
 

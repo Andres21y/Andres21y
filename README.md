@@ -17,7 +17,7 @@
 </div>
 <img src="/image/background.png" height="50" width="100%">
 
-<h1 align="center">Hi 👋, I'm Andres</h1> 
+<h1 align="center">Hola! 👋, Soy Andrés Córdoba</h1> 
 </img>
 </div>
 
@@ -25,25 +25,26 @@
 
 ---
 
-### :man_technologist: About Me :
-I'm a full stack web developer, I'm 31 years old  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> I'm from Colombia .
+### :man_technologist: Sobre mi:
+👋 Hi there! I am a zealous Full Stack Developer 🌐💻 with a prominent focus on the client side. My journey into the realm of programming commenced as a pursuit of creativity through technology. Endowed with formidable skills in HTML, CSS, and JavaScript, I specialize in fashioning exceptional and highly interactive user experiences.
+My emphasis revolves around the translation of client ideas and requirements into elegant and functional digital solutions. With a discerning eye for design and an unwavering commitment to performance optimization, my aim is to provide end-users with seamless and unforgettable web experiences.
+Let's connect and build the web together! 🚀 #CodeLover #AlwaysLearning 💡👨‍💻
+- :telescope:Actuelmente buscando trabajo.
 
-- :telescope: I am currently working on It Globers as a front-end web developer.
+- :school: Henry bootcamp argentina.
 
-- :school: I studied at the henry programming academy
+- :seedling:Apasionado por la tecnología, el desarrollo de aplicaciones web,  así como análisis de código en busca de mejoras. 
 
-- :seedling: I'm currently learning typeScript on my own
+- :book:En mis tiempos libres me gusta leer algún libro  si es posible en inglés, ya que esto me ayuda a mejorar mis habilidades en este idioma.
 
-- :book: I like to read code books and technology articles.
-
-- :zap:In my spare time I like chess, running and playing basketball.
+- 🤾‍♂️:Me encantan los deportes como baloncesto, natación y ajedrez.
 
 - :mailbox:Connect with me: [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white&height="20px")](https://www.linkedin.com/in/andres-cordoba-8714b5238/)
 
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Habilidades Técnicas:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -54,7 +55,8 @@ I'm a full stack web developer, I'm 31 years old  <img src="https://media.giphy.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="Postgress" alt="Postgress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" title="Sequelize" alt="Sequelize" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="Sequelize" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="Sass" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
 </div>
 
 

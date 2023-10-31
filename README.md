@@ -21,8 +21,9 @@
 ---
 
 ### :man_technologist: Sobre mi:
-👋 Hi there! I'm a passionate Full Stack Web Developer 🌐💻 who thrives on turning ideas into elegant, functional, and user-friendly web applications. I'm on a never-ending quest for knowledge 📚 and love diving headfirst into new technologies. When I'm not coding, you can find me exploring the latest web development trends
-or brainstorming my next big project. Let's connect and build the web together! 🚀 #CodeLover #AlwaysLearning 💡👨‍💻
+👋 Hi there! I am a zealous Full Stack Developer 🌐💻 with a prominent focus on the client side. My journey into the realm of programming commenced as a pursuit of creativity through technology. Endowed with formidable skills in HTML, CSS, and JavaScript, I specialize in fashioning exceptional and highly interactive user experiences.
+My emphasis revolves around the translation of client ideas and requirements into elegant and functional digital solutions. With a discerning eye for design and an unwavering commitment to performance optimization, my aim is to provide end-users with seamless and unforgettable web experiences.
+Let's connect and build the web together! 🚀 #CodeLover #AlwaysLearning 💡👨‍💻
 - :telescope:Actuelmente buscando trabajo.
 
 - :school: Henry bootcamp argentina.

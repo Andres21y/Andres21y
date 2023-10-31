@@ -1,3 +1,8 @@
+<div style="background-image: url('../image/home_off.jpg'); background-size: cover;">
+  
+
+
+
 <div  style="color:#97E425">
 
 <div id="header" align="center">
@@ -58,3 +63,7 @@ I'm a full stack web developer, I'm 31 years old  <img src="https://media.giphy.
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=andres21y&show_icons=true&locale=en&layout=compact" alt="andres21y" /></p>
 <br/>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andres21y" alt="andres21y" /></a> </p>
+
+</div>
+
+<link rel="stylesheet" type="text/css" href="./css/custom.css">

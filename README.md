@@ -15,7 +15,6 @@
   </a>  
   <img src="https://komarev.com/ghpvc/?username=Andres21y&style=flat-square&color=blue" alt="username"/>
 </div>
-<img src="/image/background.png" height="50" width="100%">
 
 <h1 align="center">Hi! 👋, I'm Andrés Córdoba</h1> 
 </img>
